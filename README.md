@@ -1,7 +1,8 @@
-Andrés Castro - 201920805 - a.castrol@uniandes.edu.co
-Nicolas Merchan Cuestas - 202112109 - n.merchan@uniandes.edu.co
-
 #ISIS1225 - Estructura de un proyecto
+
+Andrés Castro - 201920805 - a.castrol@uniandes.edu.co
+
+Nicolas Merchan Cuestas - 202112109 - n.merchan@uniandes.edu.co
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
